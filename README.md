@@ -1,1 +1,1 @@
-# SCARA-robot-Selective-Compliance-Assembly-Robot-Arm-
+In begning of my Btect- Mechatronics (Robotics Specialization)Enginering , i got the oppoturnuity to make SCARA , robotic arm 4dof ,for my elements of mechatronics system (EMS) Course and learnt motor ,sensor , control system of system with my team mate where i had look upon and took lead for project and maintain electronics with embedded system.
